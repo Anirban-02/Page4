@@ -1,0 +1,14 @@
+#div1{
+	width: 60px;
+	height: 25px;
+	margin: 200px;
+	padding: 50px;
+	border-radius: 10px;
+	background-color : pink ;
+	color : black ;
+    border: 3px solid black;
+}
+img{
+	width: 299px;
+	height: 299px;
+}
